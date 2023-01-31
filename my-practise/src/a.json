@@ -1,0 +1,23 @@
+{
+    "612e28894610c61f812475f5": {
+        "recordingId": "612e28894610c61f812475f5",
+        "meetingName": "VS-T4:  Meeting",
+        "filesById": {
+            "66df4459-7712-40af-9fb8-2a1967de207a_audio.M4A":{
+                "name": "66df4459-7712-40af-9fb8-2a1967de207a_audio.M4A",
+                "type": "audio",
+                "displayName": "Audio File"
+            },
+            "5b20001a-9af0-4532-8010-e94f08c92da6_video.MP4":{
+                "name": "5b20001a-9af0-4532-8010-e94f08c92da6_video.MP4",
+                "type": "video",
+                "displayName": "Video - Active Speaker View"
+            }
+        },
+        "createdAt": 1630414985
+    }
+}
+
+
+
+
